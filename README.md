@@ -10,3 +10,4 @@
 |10회|2019년 4월 20일|API|강인호, 이동희, 김동후|[[10th Oracle Developer Meetup 상세 페이지](./201904-010th-meetup.md)]|
 |9회|2019년 3월 16일|Microservice, From beginner to Advanced|황주필, 강인호, 이동희|[[9th Oracle Developer Meetup 상세 페이지](./201903-009th-meetup.md)]|
 |8회|2019년 2월 16일|Cloud Native Java: GraalVM|양수열, 김태완|[[8th Oracle Developer Meetup  상세  페이지](./201902-008th-meetup.md)]|
+|7회|2018년 10월 13일|In-Memory OLTP Database 와 Eclipse MicroProfile|이병호, 황주필|[[7th Oracle Developer Meetup  상세  페이지](./201810-007th-meetup.md)]|
