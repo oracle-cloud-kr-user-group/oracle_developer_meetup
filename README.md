@@ -6,6 +6,7 @@
 
 |회차|진행일|주제|발표자|상세페이지|
 |--|--|--|--|--|
+|15회|2019년 12월 14일|GraalVM|Thomas Wuerthinger|[[15th Oracle Developer Meetup  상세  페이지](./201912-015th-meetup.md)]|
 |13회|2019년 7월 20일|Oracle Autonomous Database를 밋업?|이동욱, 신용환, 김태완|[[13th Oracle Developer Meetup 상세 페이지](./201907-013th-meetup.md)]|
 |12회|2019년 6월 15일|마이크로서비스 환경에서의 Monitoring과 Tracing!|강인호, 김동후|[[12th Oracle Developer Meetup 상세 페이지](./201906-012th-meetup.md)]|
 |11회|2019년 5월 18일|Cloud Native Database|류수미, 김지훈, 김태완, 김준|[[11th Oracle Developer Meetup 상세 페이지](./201905-011th-meetup.md)]|
